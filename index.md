@@ -7,6 +7,7 @@ nav_exclude: true
 permalink: /
 ---
 
+
 {% include banner.html %}
 
 {% include cards.html %}
