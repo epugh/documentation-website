@@ -8,6 +8,7 @@ permalink: /
 ---
 
 
+
 {% include banner.html %}
 
 {% include cards.html %}
